@@ -17,7 +17,7 @@ class CreateAboutTable extends Migration
             $table->increments('id');
             $table->string('title');
             $table->text('description');
-            $table->text('image');
+            $table->text('image')->nullable();
             $table->timestamps();
 
         });

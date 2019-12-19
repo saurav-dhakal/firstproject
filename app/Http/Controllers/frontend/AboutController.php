@@ -3,7 +3,7 @@
 namespace App\Http\Controllers\frontend;
 
 use Illuminate\Http\Request;
-use App\about;
+use App\Http\Controllers\Controller;
 
 class AboutHandler extends Controller
 {

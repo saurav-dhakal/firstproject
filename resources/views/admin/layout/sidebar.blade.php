@@ -32,29 +32,10 @@
               <i class="nav-icon fa fa-dashboard"></i>
               <p>
                 Dashboard
-                <i class="right fa fa-angle-left"></i>
+              
               </p>
             </a>
-            <ul class="nav nav-treeview">
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="fa fa-circle-o nav-icon"></i>
-                  <p>Dashboard v1</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="fa fa-circle-o nav-icon"></i>
-                  <p>Dashboard v2</p>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a href="#" class="nav-link">
-                  <i class="fa fa-circle-o nav-icon"></i>
-                  <p>Dashboard v3</p>
-                </a>
-              </li>
-            </ul>
+            
           </li>
           <li class="nav-item">
             <a href="#" class="nav-link">
